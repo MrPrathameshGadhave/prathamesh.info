@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/personal-portfolio/blob/main/public/project-preview.png?raw=true"><img/>
+<img src="https://github.com/catherineisonline/personal-portfolio/blob/main/public/project-priview.jpg?raw=true"><img/>
 
 # Personal Portfolio
 <a href="https://catherineisonline.github.io/personal-portfolio/">Portfolio</a> : A glimpse into my web development expertise. Explore a selection of interactive and responsive websites, crafted with the latest technologies such as ReactJS, Vanilla JavaScript, RESTful API, CSS, SASS, SCSS, Tailwind, and HTML. Showcasing my skills and experience in designing and developing top-notch web solutions.
